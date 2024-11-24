@@ -47,6 +47,11 @@
 - **Python Libraries**: `dotenv`, `re`, `json`, and `markdown` for enhanced functionality.
 
 ---
+DEMO VIDEO :
+
+https://github.com/user-attachments/assets/ac6a490e-b867-432b-abb7-50f2c2aa8537
+
+
 
 ## ⚙️ **Setup Instructions**
 1. Clone the repository:  
